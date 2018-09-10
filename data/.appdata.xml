@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2018 Your Name <you@email.com> -->
+<component type="desktop">
+  <id>com.github.hunterhines34.vala-basics</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Vala Basics</name>
+  <summary>A simple and formal Vala application</summary>
+  <description>
+    <p>This application is intended to help others understand the structure of Vala and it's features.
+
+    Please feel free to use this application to better understand the usages of Vala and the Gtk framework.</p>
+  </description>
+</component>
