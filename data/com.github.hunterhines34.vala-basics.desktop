@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Vala Basics
+GenericName=Vala Basics
+Comment=A generic application built in Vala and Gtk
+Categories=Utility;Education;
+Exec=com.github.hunterhines34.vala-basics
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=Vala;Gtk;Example;Programming;
